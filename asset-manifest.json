@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bread-Bros/static/css/main.eadbe8f2.css",
+    "main.js": "/Bread-Bros/static/js/main.2ace68d9.js",
+    "static/js/787.11390eeb.chunk.js": "/Bread-Bros/static/js/787.11390eeb.chunk.js",
+    "static/media/image-homepage@3x.png": "/Bread-Bros/static/media/image-homepage@3x.f0b10b9a0aa65fda60fe.png",
+    "index.html": "/Bread-Bros/index.html",
+    "main.eadbe8f2.css.map": "/Bread-Bros/static/css/main.eadbe8f2.css.map",
+    "main.2ace68d9.js.map": "/Bread-Bros/static/js/main.2ace68d9.js.map",
+    "787.11390eeb.chunk.js.map": "/Bread-Bros/static/js/787.11390eeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eadbe8f2.css",
+    "static/js/main.2ace68d9.js"
+  ]
+}
